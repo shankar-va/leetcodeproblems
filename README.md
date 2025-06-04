@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shankar-va/leetcodeproblems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shankar-va/leetcodeproblems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1511-count-number-of-teams](https://github.com/shankar-va/leetcodeproblems/tree/master/1511-count-number-of-teams) |
+| [1791-richest-customer-wealth](https://github.com/shankar-va/leetcodeproblems/tree/master/1791-richest-customer-wealth) |
 | [3321-type-of-triangle](https://github.com/shankar-va/leetcodeproblems/tree/master/3321-type-of-triangle) |
 ## Binary Search
 |  |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3199-distribute-candies-among-children-i](https://github.com/shankar-va/leetcodeproblems/tree/master/3199-distribute-candies-among-children-i) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/shankar-va/leetcodeproblems/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->

@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/shankar-va/leetcodeproblems/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/shankar-va/leetcodeproblems/tree/master/0485-max-consecutive-ones) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shankar-va/leetcodeproblems/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1511-count-number-of-teams](https://github.com/shankar-va/leetcodeproblems/tree/master/1511-count-number-of-teams) |
 | [3321-type-of-triangle](https://github.com/shankar-va/leetcodeproblems/tree/master/3321-type-of-triangle) |
 ## Binary Search
 |  |
@@ -65,8 +66,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shankar-va/leetcodeproblems/tree/master/0053-maximum-subarray) |
+| [1511-count-number-of-teams](https://github.com/shankar-va/leetcodeproblems/tree/master/1511-count-number-of-teams) |
 ## Greedy
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/shankar-va/leetcodeproblems/tree/master/1448-maximum-69-number) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/shankar-va/leetcodeproblems/tree/master/1511-count-number-of-teams) |
+## Segment Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/shankar-va/leetcodeproblems/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->

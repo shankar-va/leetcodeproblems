@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shankar-va/leetcodeproblems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1511-count-number-of-teams](https://github.com/shankar-va/leetcodeproblems/tree/master/1511-count-number-of-teams) |
 | [1603-running-sum-of-1d-array](https://github.com/shankar-va/leetcodeproblems/tree/master/1603-running-sum-of-1d-array) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/shankar-va/leetcodeproblems/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1791-richest-customer-wealth](https://github.com/shankar-va/leetcodeproblems/tree/master/1791-richest-customer-wealth) |
 | [3321-type-of-triangle](https://github.com/shankar-va/leetcodeproblems/tree/master/3321-type-of-triangle) |
 ## Binary Search
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shankar-va/leetcodeproblems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shankar-va/leetcodeproblems/tree/master/0349-intersection-of-two-arrays) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shankar-va/leetcodeproblems/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/shankar-va/leetcodeproblems/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shankar-va/leetcodeproblems/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/shankar-va/leetcodeproblems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shankar-va/leetcodeproblems/tree/master/0349-intersection-of-two-arrays) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/shankar-va/leetcodeproblems/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [3321-type-of-triangle](https://github.com/shankar-va/leetcodeproblems/tree/master/3321-type-of-triangle) |
 ## Two Pointers
 |  |

@@ -1,18 +1,15 @@
 class Solution {
     public int specialArray(int[] nums) {
-        int n = nums.length;
-        
-        for (int x = 0; x <= n; x++) {
-            int count = 0;
-            for (int num : nums) {
-                if (num >= x) {
+        int n=nums.length;
+        for(int i=0;i<=n;i++){
+            int count=0;
+            for(int num:nums){
+                
+                if(i<=num){
                     count++;
                 }
-            }
-            if (count == x) {
-                return x;
-            }
-        }
-        return -1;
+
+            }if(i==count)return i;
+        }return -1;
     }
 }

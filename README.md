@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/shankar-va/leetcodeproblems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/shankar-va/leetcodeproblems/tree/master/0268-missing-number) |
 | [1448-maximum-69-number](https://github.com/shankar-va/leetcodeproblems/tree/master/1448-maximum-69-number) |
+| [3199-distribute-candies-among-children-i](https://github.com/shankar-va/leetcodeproblems/tree/master/3199-distribute-candies-among-children-i) |
 | [3321-type-of-triangle](https://github.com/shankar-va/leetcodeproblems/tree/master/3321-type-of-triangle) |
 ## Bit Manipulation
 |  |
@@ -81,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/shankar-va/leetcodeproblems/tree/master/1511-count-number-of-teams) |
+## Combinatorics
+|  |
+| ------- |
+| [3199-distribute-candies-among-children-i](https://github.com/shankar-va/leetcodeproblems/tree/master/3199-distribute-candies-among-children-i) |
+## Enumeration
+|  |
+| ------- |
+| [3199-distribute-candies-among-children-i](https://github.com/shankar-va/leetcodeproblems/tree/master/3199-distribute-candies-among-children-i) |
 <!---LeetCode Topics End-->
